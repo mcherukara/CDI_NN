@@ -10,7 +10,9 @@ The strucuture of the network is shown below:
 
 ## File Guide
 The .hdf5 files have the trained network structure and weights for the structure prediction netowrk (sCDI NN in the paper) and the phase prediction network (pCDI NN in the paper).
+
 testing.ipynb loads the trained network and shows examples of the networks' performance on the test data.
+
 test_data contains the test diffraction data and corresponding object and strain (phase) information as .npy files 
 
 Software required:
