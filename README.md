@@ -15,7 +15,7 @@ testing.ipynb loads the trained network and shows examples of the networks' perf
 
 test_data contains the test diffraction data and corresponding object and strain (phase) information as .npy files 
 
-##Software required:
+## Software required:
 
 Keras 2.1.0
 
